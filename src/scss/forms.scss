@@ -1,0 +1,22 @@
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="search"],
+input[type="time"],
+input[type="date"],
+selector,
+select,
+textarea {
+  padding: .5rem 1rem;
+  width: 100%;
+  border: none;
+  background: transparent;
+  resize: none;
+  appearance: unset;
+  &:active{
+    outline: none;
+  }
+  &:focus{
+    outline: none;
+  }
+}

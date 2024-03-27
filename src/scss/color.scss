@@ -1,0 +1,31 @@
+$primary: #23dc5a;
+$secondary: #591bda;
+$third: #F5E033;
+$light: #ffffff;
+$grey: #dcdcdc;
+$lite-grey: #f4f4f4;
+$dark: #070707;
+$danger: #ec7575;
+$bg-muted: #f3f3f3;
+
+.text-primary{
+  color: $primary;
+}
+.text-secondary{
+  color: $secondary;
+}
+.text-third{
+  color: $third;
+}
+.text-light{
+  color: $light;
+}
+.bg-light{
+  background: $light;
+}
+.bg-primary{
+  background: $primary;
+}
+.bg-muted{
+  background: $bg-muted;
+}
