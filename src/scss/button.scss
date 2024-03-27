@@ -10,4 +10,44 @@
   justify-content: center;
   align-items: center;
 }
+.view-button{
+  border-radius: 20px;
+  border: 1px solid $secondary;
+  color: $secondary;
+  width: 100%;
+  transition: all 100ms ease-in-out;
+}
+.rent-button{
+  border-radius: 20px;
+  background: $secondary;
+  color: $light;
+  width: 200px;
+  transition: all 100ms ease-in-out;
+}
+.contact-quick{
+  .contact-button{
+    border-radius: 20px;
+    background: $secondary;
+    color: $light;
+    width: 250px;
+    transition: all 100ms ease-in-out;
+  }
+}
+.contact-button{
+  border-radius: 20px;
+  border: 1px solid $secondary;
+  color: $secondary;
+  width: 200px;
+  transition: all 100ms ease-in-out;
+}
+
+.send-button{
+  text-align: center;
+  border-radius: 5px;
+  background: $secondary;
+  color: $light;
+  width: 100%;
+  transition: all 100ms ease-in-out;
+}
+
 

@@ -1,5 +1,51 @@
 /* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) {}
+@media only screen and (max-width: 600px) {
+  .wrapper{
+    width: 95%;
+  }
+  .hero{
+    .wrapper{
+      display: block;
+      text-align: center;
+    }
+    .text-content{
+      width: 100% !important;
+    }
+    .hero-footer{
+      display: none !important;
+    }
+  }
+  .services{
+    .repeat-row-3{
+      grid-template-columns: 100%;
+    }
+  }
+  .items{
+    .repeat-row-5{
+      grid-template-columns: repeat(2,1fr) !important;
+    }
+    .item-card{
+      .item-card-cover{
+        height: 120px;
+      }
+    }
+  }
+  .contact-page{
+    .form-holder{
+      .names{
+        grid-template-columns: repeat(2,1fr) !important;
+      }
+      .repeat-row-2{
+        grid-template-columns: 100%;
+      }
+    }
+  }
+  .footer{
+    .repeat-row-4{
+      grid-template-columns: 100%;
+    }
+  }
+}
 
 
 
