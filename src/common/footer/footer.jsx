@@ -24,8 +24,8 @@ function Footer(){
     const MapLinks = NavLinks.map((link, index)=> {
         const isActive = pathname.startsWith(link.path);
         return(
-            <li>
-                <Link href={link.path} key={index} className={`text-cap ${isActive ? "active-link" : ""}`}>{link.name}</Link>
+            <li key={index}>
+                <Link href={link.path} className={`text-cap ${isActive ? "active-link" : ""}`}>{link.name}</Link>
             </li>
         )
     });
