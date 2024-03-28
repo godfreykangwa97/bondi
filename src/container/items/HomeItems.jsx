@@ -38,7 +38,7 @@ function HomeItems(){
     const MapItems = properties.map(property => (
         <Link href={`/property/${property.id}`} className="item-card" key={property.id}>
             <div className="item-card-cover">
-                <Image src={`/./${property.image}`} alt={`${property.title} - ${property.id}`}
+                <Image src={`${property.image}`} alt={`${property.title} - ${property.id}`}
                 width={100} height={100}/>
             </div>
             <div className="item-card-content p-1rem">

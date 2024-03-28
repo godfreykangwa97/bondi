@@ -4,7 +4,7 @@ export const HousesData = [
         type: "house",
         price: "100000",
         location: "makeni",
-        image: "/imgs/pexels-alex-staudinger-1732414.jpg",
+        image: "https://images.pexels.com/photos/323776/pexels-photo-323776.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
     {
@@ -12,7 +12,7 @@ export const HousesData = [
         type: "apartment",
         price: "100000",
         location: "silver rest",
-        image: "imgs/pexels-binyamin-mellish-106399.jpg",
+        image: "https://images.pexels.com/photos/210617/pexels-photo-210617.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
     {
@@ -20,7 +20,7 @@ export const HousesData = [
         type: "apartment",
         price: "8000",
         location: "kabwata",
-        image: "imgs/pexels-binyamin-mellish-1396132.jpg",
+        image: "https://images.pexels.com/photos/53610/large-home-residential-house-architecture-53610.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
     {
@@ -28,7 +28,7 @@ export const HousesData = [
         type: "house",
         price: "100000",
         location: "kabwata",
-        image: "/imgs/pexels-curtis-adams-3935333.jpg",
+        image: "https://images.pexels.com/photos/208736/pexels-photo-208736.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
     {
@@ -36,7 +36,7 @@ export const HousesData = [
         type: "house",
         price: "870",
         location: "high bex hills",
-        image: "imgs/pexels-expect-best-323780.jpg",
+        image: "https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
     {
@@ -44,7 +44,7 @@ export const HousesData = [
         type: "apartment",
         price: "90",
         location: "phi",
-        image: "imgs/pexels-eziz-charyyev-1475938.jpg",
+        image: "https://images.pexels.com/photos/1115804/pexels-photo-1115804.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
     {
@@ -52,7 +52,7 @@ export const HousesData = [
         type: "hotel",
         price: "100",
         location: "new kasama",
-        image: "imgs/pexels-luis-yanez-206172.jpg",
+        image: "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
     {
@@ -60,7 +60,7 @@ export const HousesData = [
         type: "hotel",
         price: "900",
         location: "shatumbo",
-        image: "imgs/pexels-expect-best-323776.jpg",
+        image: "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
     {
@@ -68,7 +68,7 @@ export const HousesData = [
         type: "lodge",
         price: "900",
         location: "shatumbo",
-        image: "imgs/pexels-expect-best-323775.jpg",
+        image: "https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
     {
@@ -76,7 +76,7 @@ export const HousesData = [
         type: "estate",
         price: "900",
         location: "chongwe",
-        image: "imgs/pexels-photomix-company-565324.jpg",
+        image: "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&w=600",
         title: "Mountain hills",
     },
 ]
