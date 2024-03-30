@@ -40,6 +40,14 @@
       }
     }
   }
+  .about{
+    .inline-flex{
+      display: block;
+    }
+    .items-center{
+      align-items: unset !important;
+    }
+  }
   .footer{
     .repeat-row-4{
       grid-template-columns: 100%;

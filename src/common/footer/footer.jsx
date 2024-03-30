@@ -44,10 +44,10 @@ function Footer(){
                     <div className="footer-nav">
                         <h5>follow us</h5>
                         <ul className="m-t-1rem">
-                            <li><FaFacebook/><span className="m-l-1rem">facebook</span></li>
-                            <li><FaInstagram/><span className="m-l-1rem">instagram</span></li>
-                            <li><FaBehance/><span className="m-l-1rem">behance</span></li>
-                            <li><FaLinkedin/><span className="m-l-1rem">linkedin</span></li>
+                            <li><Link href="https://web.facebook.com/emitartscreatives" target="_blank"><FaFacebook/><span className="m-l-1rem">facebook</span></Link></li>
+                            <li><Link href="https://instagram.com/emitproductionzm" target="_blank"><FaInstagram/><span className="m-l-1rem">instagram</span></Link></li>
+                            <li><Link href="https://www.behance.net/EmitArtsCreatives" target="_blank"><FaBehance/><span className="m-l-1rem">behance</span></Link></li>
+                            <li><Link href="https://www.linkedin.com/company/emitartscreatives" target="_blank"><FaLinkedin/><span className="m-l-1rem">linkedin</span></Link></li>
                         </ul>
                     </div>
                     <div className="footer-nav">
